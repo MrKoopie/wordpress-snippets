@@ -1,0 +1,1 @@
+UPDATE wp_options SET option_value='http://new_url.com' WHERE `option_name` = 'siteurl' OR `option_name` = 'home';
